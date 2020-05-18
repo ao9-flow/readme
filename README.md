@@ -22,3 +22,4 @@ Elasticsearch, Logstash, Kibana
 
 ## Deployment
 AWS EC2, Docker
+Heroku
