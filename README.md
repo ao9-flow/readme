@@ -1,4 +1,4 @@
-﻿# spring-rest-microservice
+﻿# Flow
 
 An App of Spring Boot Microservice + REST API + React.
 
